@@ -1,0 +1,43 @@
+[  
+    {
+	    "type": "AdaptiveCard",
+	    "minHeight": "200px",
+	    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+	    "version": "1.2",
+	    "body": [
+	        {
+	            "type": "TextBlock",
+	            "text": "🔮 CarabanchelRP 🔮",
+	            "fontType": "Default",
+	            "horizontalAlignment": "Center",
+	            "weight": "Bolder",
+	            "color": "purple",
+	            "size": "ExtraLarge"
+	        },
+	        {
+	            "type": "TextBlock",
+	            "text": "🎄 FELIZ NAVIDAD 🎄",
+	            "color": "green",
+	            "fontType": "Default",
+	            "weight": "Bolder"
+	        },
+	        {
+	            "type": "TextBlock",
+	            "text": "💻 Disfruta la entancia con nosotros 💻",
+	            "color": "red",
+	            "spacing": "Small",
+	            "horizontalAlignment": "Center",
+	            "weight": "Bolder"
+	        },
+	        {
+	            "type": "TextBlock",
+	            "text": "📩 https://https://discord.gg/tWBjVAHw 📩",
+	            "horizontalAlignment": "Center",
+	            "weight": "Bolder",
+	            "color": "purple",
+	            "size": "Small",
+	            "spacing": "Small"
+	        }
+	    ]
+	}
+]
