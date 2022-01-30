@@ -1,0 +1,3293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- LC VEHICLE PACK, VERSION 1.2 -->
+<!-- DO NOT DISTRIBUTE WITHOUT THE PERMISSION OF THE CREATORS! -->
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>boxvilleretro</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          132
+          132
+          132
+          2
+          111
+          26
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          108
+          108
+          108
+          108
+          108
+          7
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          98
+          98
+          98
+          8
+          98
+          12
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          111
+          111
+          111
+          5
+          111
+          5
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          106
+          63
+          106
+          23
+          106
+          99
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="10" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>cabby</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          88
+          12
+          5
+          156
+          0
+          12
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          88
+          88
+          5
+          156
+          0
+          12
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          88
+          88
+          5
+          156
+          0
+          88
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>fdlc</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="72" />
+      <sirenSettings value="22" />
+    </Item>
+    <Item>
+      <modelName>fdlc2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          156
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="28" />
+    </Item>
+    <Item>
+      <modelName>fdlcamb</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          156
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="22" />
+      <sirenSettings value="17" />
+    </Item>
+    <Item>
+      <modelName>fdlcamb2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          112
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="4" />
+    </Item>
+    <Item>
+      <modelName>fdlcamb3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          28
+          21
+          132
+          5
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          28
+          21
+          132
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="44" />
+      <sirenSettings value="16" />
+    </Item>
+    <Item>
+      <modelName>fdlcambold</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          112
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          156
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          111
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          112
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="17" />
+    </Item>
+    <Item>
+      <modelName>fdlcbastion</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          112
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          156
+          0
+          1
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          5
+          0
+          2
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          112
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="14" />
+      <sirenSettings value="27" />
+    </Item>
+    <Item>
+      <modelName>fdlcboxville</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          28
+          24
+          110
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          112
+          87
+          18
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          5
+          75
+          9
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="25" />
+    </Item>
+    <Item>
+      <modelName>fdlcforklift</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          124
+          28
+          89
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          123
+          28
+          89
+          1
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          123
+          28
+          89
+          123
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          123
+          73
+          88
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          47
+          73
+          88
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          39
+          73
+          88
+          112
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities />
+      </plateProbabilities>
+      <lightSettings value="15" />
+      <sirenSettings value="9" />
+    </Item>
+    <Item>
+      <modelName>fdlcgranger</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          156
+          106
+          112
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          156
+          5
+          112
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          156
+          18
+          112
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="202" />
+      <sirenSettings value="25" />
+    </Item>
+    <Item>
+      <modelName>fdlchazmat</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          28
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="22" />
+      <sirenSettings value="19" />
+    </Item>
+    <Item>
+      <modelName>fdlcheavy</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          28
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="22" />
+      <sirenSettings value="19" />
+    </Item>
+    <Item>
+      <modelName>fdlcrescue</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          28
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="19" />
+    </Item>
+    <Item>
+      <modelName>fdlcsand</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="4" />
+    </Item>
+    <Item>
+      <modelName>fdlcsteed</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          112
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          28
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          27
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="25" />
+    </Item>
+    <Item>
+      <modelName>fdlctruck</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          27
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="22" />
+      <sirenSettings value="18" />
+    </Item>
+    <Item>
+      <modelName>fdlctruck2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          28
+          28
+          132
+          28
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="22" />
+      <sirenSettings value="18" />
+    </Item>
+    <Item>
+      <modelName>lcbus</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="201" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>lcmav</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          1
+          112
+          0
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          8
+          112
+          5
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          27
+          112
+          28
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          72
+          112
+          72
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          59
+          112
+          58
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          66
+          112
+          65
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          73
+          112
+          73
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities />
+      <lightSettings value="18" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>lcpd</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>501_lcpd_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="22" />
+    </Item>
+    <Item>
+      <modelName>lcpd2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          0
+          1
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          0
+          2
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          15
+          15
+          0
+          156
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="204" />
+      <sirenSettings value="22" />
+    </Item>
+    <Item>
+      <modelName>lcpd3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>503_lcpd3_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="72" />
+      <sirenSettings value="29" />
+    </Item>
+    <Item>
+      <modelName>lcpd4</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          2
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          2
+          112
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          2
+          112
+          112
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="22" />
+    </Item>
+    <Item>
+      <modelName>lcpd5</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          18
+          0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          18
+          1
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          18
+          2
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          15
+          15
+          0
+          156
+          14
+          0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>505_lcpd5_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="22" />
+    </Item>
+    <Item>
+      <modelName>lcpd6</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          4
+          4
+          112
+          156
+          23
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          6
+          6
+          112
+          156
+          26
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          7
+          7
+          112
+          156
+          14
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          11
+          11
+          0
+          156
+          106
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          33
+          33
+          34
+          156
+          144
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          33
+          33
+          34
+          156
+          154
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          106
+          106
+          112
+          156
+          18
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          62
+          62
+          82
+          156
+          78
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>506_lcpd6_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="22" />
+    </Item>
+    <Item>
+      <modelName>lcpdalamo</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="23" />
+      <sirenSettings value="22" />
+    </Item>
+    <Item>
+      <modelName>lcpdb</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          90
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          110
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          85
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_bike_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="12" />
+      <sirenSettings value="23" />
+    </Item>
+    <Item>
+      <modelName>lcpdbob</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          112
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          70
+          70
+          0
+          112
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          70
+          70
+          0
+          156
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="24" />
+      <sirenSettings value="25" />
+    </Item>
+    <Item>
+      <modelName>lcpdboxville</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          112
+          24
+          110
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          2
+          24
+          86
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          75
+          75
+          0
+          75
+          75
+          9
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          70
+          70
+          0
+          112
+          87
+          18
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="25" />
+    </Item>
+    <Item>
+      <modelName>lcpdbtrailer</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            6
+            112
+            111
+            156
+            99
+            112
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            121
+            12
+            111
+            156
+            102
+            112
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            117
+            12
+            111
+            156
+            99
+            112
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits/>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0"/>
+      <sirenSettings value="0"/>
+    </Item>
+    <Item>
+      <modelName>lcpdesp</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          70
+          70
+          0
+          112
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          70
+          70
+          0
+          70
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="39" />
+      <sirenSettings value="28" />
+    </Item>
+    <Item>
+      <modelName>lcpdfaggio</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          12
+          112
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_bike_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="13" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>lcpdmav</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          73
+          112
+          156
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities />
+      <lightSettings value="200" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>lcpdmerit</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          70
+          70
+          0
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="25" />
+    </Item>
+    <Item>
+      <modelName>lcpdold</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          26
+          112
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          18
+          112
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          70
+          70
+          0
+          156
+          46
+          112
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          70
+          70
+          0
+          156
+          106
+          112
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>508_lcpdold_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="203" />
+      <sirenSettings value="22" />
+    </Item>
+    <Item>
+      <modelName>lcpdpanto</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          12
+          0
+          5
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          0
+          5
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="22" />
+    </Item>
+    <Item>
+      <modelName>lcpdpigeon</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          12
+          0
+          5
+          7
+          7
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          12
+          0
+          5
+          26
+          26
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          12
+          0
+          5
+          66
+          66
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          15
+          12
+          0
+          5
+          85
+          85
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="24" />
+    </Item>
+    <Item>
+      <modelName>lcpdpredator</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities />
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="23" />
+    </Item>
+    <Item>
+      <modelName>lcpdprem</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          70
+          70
+          0
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="22" />
+    </Item>
+    <Item>
+      <modelName>lcpdranch</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          70
+          70
+          0
+          156
+          0
+          0
+          </indices>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="25" />
+    </Item>
+    <Item>
+      <modelName>lcpdriata</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          106
+          116
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          19
+          18
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          70
+          70
+          0
+          156
+          98
+          5
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          70
+          70
+          0
+          156
+          106
+          95
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>507_lcpdriata_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="25" />
+    </Item>
+    <Item>
+      <modelName>lcpdsand</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="44" />
+      <sirenSettings value="22" />
+    </Item>
+    <Item>
+      <modelName>lcpdscout</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          4
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          17
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          105
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          99
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          144
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="72" />
+      <sirenSettings value="29" />
+    </Item>
+    <Item>
+      <modelName>lcpdshark</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            112
+            156
+            13
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            112
+            12
+            112
+            156
+            22
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            112
+            12
+            112
+            156
+            102
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            112
+            156
+            99
+            0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities />
+      </plateProbabilities>
+      <lightSettings value="12" />
+      <sirenSettings value="23" />
+    </Item>
+    <Item>
+      <modelName>lcpdsparrow</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          120
+          106
+          0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          119
+          23
+          0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          12
+          0
+          118
+          93
+          0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities />
+      <lightSettings value="200" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>lcpdspeedo</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="4" />
+    </Item>
+    <Item>
+      <modelName>lcpdstockade</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          73
+          112
+          156
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="26" />
+    </Item>
+    <Item>
+      <modelName>lcpdtru</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          12
+          112
+          112
+          4
+          112
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          12
+          112
+          156
+          99
+          112
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          17
+          112
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          12
+          121
+          156
+          105
+          11
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          112
+          24
+          121
+          156
+          144
+          112
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="205" />
+      <sirenSettings value="24" />
+    </Item>
+    <Item>
+      <modelName>lcpdtruck</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          73
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>509_lcpdtruck_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="22" />
+      <sirenSettings value="20" />
+    </Item>
+    <Item>
+      <modelName>lcpdyo</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          112
+          112
+          112
+          156
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="23" />
+      <sirenSettings value="22" />
+    </Item>
+    <Item>
+      <modelName>lcsbus</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          126
+          12
+          0
+          114
+          121
+          78
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          126
+          12
+          0
+          1
+          126
+          13
+          </indices>
+         <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          126
+          12
+          0
+          126
+          126
+          151
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits/>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0"/>
+      <sirenSettings value="36"/>
+    </Item>
+    <Item>
+      <modelName>lctaxi</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          88
+          88
+          5
+          156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          88
+          24
+          5
+          156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          88
+          12
+          5
+          156
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>lctaxi2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          88
+          88
+          5
+          156
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="204" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>lctaxi4</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          88
+          88
+          5
+          156
+          18
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          88
+          24
+          5
+          156
+          106
+          0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          88
+          12
+          5
+          156
+          154
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>lctaxibr</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          88
+          88
+          5
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_no_lower</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>lctaxiold</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          88
+          88
+          5
+          156
+          26
+          112
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          88
+          24
+          5
+          156
+          18
+          112
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          88
+          12
+          5
+          156
+          46
+          112
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_no_lower</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="203" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>lctaxiprem</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          88
+          88
+          5
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_no_lower</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>lctrash</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          132
+          132
+          132
+          156
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="14" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>napc</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          155
+          155
+          0
+          1
+          0
+          0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          14
+          14
+          0
+          3
+          0
+          0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          21
+          21
+          0
+          1
+          0
+          0
+          </indices>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="21" />
+    </Item>
+    <Item>
+      <modelName>nboxville</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          12
+          12
+          0
+          15
+          24
+          110
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          12
+          12
+          0
+          5
+          24
+          86
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+          12
+          12
+          0
+          112
+          87
+          18
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="25" />
+    </Item>
+    <Item>
+      <modelName>nstockade</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          12
+          12
+          0
+          12
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          13
+          13
+          0
+          132
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="26" />
+    </Item>
+    <Item>
+      <modelName>subway</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          119
+          119
+          0
+          156
+          107
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>tourmav</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          134
+          134
+          134
+          156
+          0
+          0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities />
+      <lightSettings value="18" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>trash3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+          132
+          132
+          0
+          2
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          132
+          21
+          0
+          2
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          46
+          46
+          0
+          34
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          131
+          131
+          0
+          2
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          131
+          151
+          0
+          2
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          133
+          151
+          0
+          2
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          133
+          151
+          0
+          8
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          58
+          58
+          0
+          2
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          132
+          85
+          0
+          15
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          126
+          126
+          0
+          15
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          126
+          12
+          0
+          8
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          23
+          23
+          0
+          23
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+          46
+          87
+          0
+          97
+          0
+          0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="14" />
+      <sirenSettings value="9" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

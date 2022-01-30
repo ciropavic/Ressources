@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- LC VEHICLE PACK, VERSION 1.2 -->
+<!-- DO NOT DISTRIBUTE WITHOUT THE PERMISSION OF THE CREATORS! -->
+<CVehicleModelInfoVariation>
+   <variationData>
+      <Item>
+         <modelName>banshee</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  0
+                  0
+                  76
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  12
+                  21
+                  0
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  21
+                  21
+                  0
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  16
+                  16
+                  75
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  16
+                  5
+                  112
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  31
+                  16
+                  0
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  119
+                  119
+                  0
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  28
+                  28
+                  89
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  32
+                  24
+                  31
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  27
+                  0
+                  28
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  46
+                  46
+                  0
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  35
+                  35
+                  28
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  71
+                  71
+                  127
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  52
+                  5
+                  127
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  51
+                  51
+                  53
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  52
+                  88
+                  68
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  86
+                  12
+                  0
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  88
+                  12
+                  52
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  34
+                  5
+                  105
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  63
+                  107
+                  127
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  18
+                  18
+                  8
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  6
+                  6
+                  91
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  112
+                  0
+                  5
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  127
+                  38
+                  5
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+        </colors>
+        <kits>
+          <Item>46_banshee_modkit</Item>
+        </kits>
+        <windowsWithExposedEdges/>
+        <plateProbabilities>
+          <Probabilities>
+            <Item>
+              <Name>Liberty City Plate</Name>
+              <Value value="100"/>
+            </Item>
+          </Probabilities>
+        </plateProbabilities>
+        <lightSettings value="17"/>
+        <sirenSettings value="0"/>
+      </Item>
+      <Item>
+         <modelName>benson</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  112
+                  122
+                  112
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  5
+                  107
+                  5
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  111
+                  5
+                  112
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  121
+                  24
+                  121
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits/>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Liberty City Plate</Name>
+                  <Value value="100"/>
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0"/>
+         <sirenSettings value="0"/>
+      </Item>
+      <Item>
+      <modelName>infernus</modelName>
+      <colors>
+           <Item><!--this is a test-->
+               <indices content="char_array">
+                  161
+                  161
+                  161
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+      </colors>
+      <kits>
+        <Item>75_infernus_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>white plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="20" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+         <modelName>minivan</modelName><!--GTA IV colors for Vapid Minivan-->
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  0
+                  0
+                  25
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  2
+                  2
+                  25
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  6
+                  6
+                  25
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  8
+                  8
+                  29
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  23
+                  23
+                  29
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  35
+                  35
+                  28
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  56
+                  56
+                  50
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  74
+                  74
+                  74
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  78
+                  78
+                  127
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  85
+                  85
+                  0
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  144
+                  144
+                  102
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  24
+                  24
+                  93
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  24
+                  24
+                  52
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  99
+                  99
+                  105
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+      </Item>
+      <Item>
+         <modelName>mule</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  121
+                  1
+                  0
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  5
+                  1
+                  111
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  111
+                  0
+                  0
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  110
+                  0
+                  110
+                  156
+                  0
+                  0
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits/>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Liberty City Plate</Name>
+                  <Value value="100"/>
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0"/>
+         <sirenSettings value="0"/>
+      </Item>
+      <Item>
+        <modelName>ripley</modelName>
+        <colors>
+          <Item>
+            <indices content="char_array">
+              121
+              121
+              0
+              156
+              0
+              0
+            </indices>
+            <liveries />
+          </Item>
+          <Item>
+            <indices content="char_array">
+              132
+              24
+              0
+              156
+              0
+              0
+            </indices>
+            <liveries />
+          </Item>
+          <Item>
+            <indices content="char_array">
+              121
+              88
+              0
+              156
+              0
+              0
+            </indices>
+            <liveries />
+          </Item>
+          <Item>
+            <indices content="char_array">
+              132
+              88
+              0
+              156
+              0
+              0
+            </indices>
+            <liveries />
+          </Item>
+          <Item>
+            <indices content="char_array">
+              132
+              126
+              0
+              156
+              0
+              0
+            </indices>
+            <liveries />
+          </Item>
+          <Item>
+            <indices content="char_array">
+              132
+              132
+              0
+              156
+              0
+              0
+            </indices>
+            <liveries />
+          </Item>
+        </colors>
+        <kits/>
+        <windowsWithExposedEdges/>
+        <plateProbabilities>
+          <Probabilities/>
+        </plateProbabilities>
+        <lightSettings value="15"/>
+        <sirenSettings value="9"/>
+      </Item>
+      <Item>
+         <modelName>stockade</modelName>
+         <colors>
+            <Item>
+               <indices content="char_array">
+                  111
+                  125
+                  111
+                  156
+                  125
+                  125
+               </indices>
+               <liveries />
+            </Item>
+            <Item>
+               <indices content="char_array">
+                  111
+                  125
+                  111
+                  111
+                  125
+                  125
+               </indices>
+               <liveries />
+            </Item>
+         </colors>
+         <kits />
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Liberty City Plate</Name>
+                  <Value value="100"/>
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0"/>
+         <sirenSettings value="0"/>
+      </Item>
+   </variationData>
+</CVehicleModelInfoVariation>
