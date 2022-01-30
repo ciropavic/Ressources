@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="style.css" type="text/css">
+	<script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+</head>
+
+<body>
+	<div class="main">
+		<button class="button" id="Airport">Distrito Sur</button>
+		<button class="button" id="Train">Distrito Oeste</button>
+		<button class="button" id="Train2">Distrito Este</button>
+        <button class="button" id="SpawnYarkon">Distrito Centro</button>
+		<button class="button" id="LastLocation">Ultima Ubicacion</button>
+		<button class="submit" id="SpawnPlayer">Elegir ubicacion</button>
+	</div>
+</body>
+
+</html>
+
+<script type="text/javascript">
+	$(function () {
+		window.addEventListener("message", function (passed) {
+			var data = passed.data
+
+			switch (data["Action"]) {
+				case "OPEN_SPAWNMENU":
+					$("body").fadeIn(0)
+					break
+
+				case "CLOSE_MENU":
+					$("body").fadeOut(0)
+					break
+				default:
+					console.log("Could not read message with action: " + data.Action)
+					break
+			}
+		})
+	});
+
+	var currentLocation = null
+	
+	$('#SpawnPlayer').click(function(){
+	    $("body").fadeOut(500, function () {
+			$.post("http://ev-spawnselector/SpawnPlayer", JSON.stringify({}));
+			$("#SpawnPlayer").fadeOut(400)
+		});
+	});
+
+	$('#LastLocation').click(function(){
+		$.post("http://ev-spawnselector/LastLocation", JSON.stringify({}));
+		$("#SpawnPlayer").fadeIn(400)
+		if (currentLocation !== null) {
+            $(currentLocation).removeClass('selected');
+        }
+		$(this).addClass('selected');
+		currentLocation = this
+	});
+	
+
+	$('#Airport').click(function(){
+		$.post("http://ev-spawnselector/SpawnAirport", JSON.stringify({}));
+		$("#SpawnPlayer").fadeIn(400)
+		if (currentLocation !== null) {
+            $(currentLocation).removeClass('selected');
+        }
+		$(this).addClass('selected');
+		currentLocation = this
+	});
+
+
+	$('#GarageCentral').click(function(){
+	    $.post("http://ev-spawnselector/SpawnGarageCentral", JSON.stringify({}));
+		$("#SpawnPlayer").fadeIn(400)
+		if (currentLocation !== null) {
+            $(currentLocation).removeClass('selected');
+        }
+		$(this).addClass('selected');
+		currentLocation = this
+	});
+
+	
+	$('#Train').click(function(){
+	    $.post("http://ev-spawnselector/SpawnTrain", JSON.stringify({}));
+		$("#SpawnPlayer").fadeIn(400)
+		if (currentLocation !== null) {
+            $(currentLocation).removeClass('selected');
+        }
+		$(this).addClass('selected');
+		currentLocation = this
+	});
+
+	$('#Train2').click(function(){
+	    $.post("http://ev-spawnselector/SpawnTrain2", JSON.stringify({}));
+		$("#SpawnPlayer").fadeIn(400)
+		if (currentLocation !== null) {
+            $(currentLocation).removeClass('selected');
+        }
+		$(this).addClass('selected');
+		currentLocation = this
+	});
+
+	$('#GarageCentral').click(function(){
+	    $.post("http://ev-spawnselector/SpawnGarageCentral", JSON.stringify({}));
+		$("#SpawnPlayer").fadeIn(400)
+		if (currentLocation !== null) {
+            $(currentLocation).removeClass('selected');
+        }
+		$(this).addClass('selected');
+		currentLocation = this
+	});
+
+	$('#SpawnYarkon').click(function(){
+	    $.post("http://ev-spawnselector/SpawnYarkon", JSON.stringify({}));
+		$("#SpawnPlayer").fadeIn(400)
+		if (currentLocation !== null) {
+            $(currentLocation).removeClass('selected');
+        }
+		$(this).addClass('selected');
+		currentLocation = this
+	});
+</script>
