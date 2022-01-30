@@ -1,0 +1,9 @@
+var invLocale = new Object();
+invLocale.dropItem = "Tirar";
+invLocale.useItem = "Usar";
+invLocale.giveItem = "Dar";
+invLocale.label = "Nombre del Inventario";
+invLocale.stealmoney = "Quitar Dinero";
+invLocale.seizemoney = "Incautar efectivo";
+invLocale.takemoney = "Cojer";
+invLocale.storemoney = "Guardar";
