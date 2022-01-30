@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.1.1/howler.min.js" type="text/javascript"></script>
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/car-ui.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <body class = 'test' style="margin: 0; display:none">
+    <input type="hidden" id="anPageName" name="page" value="car-ui" />
+    <div class="container-center-horizontal">
+      <div class="car-ui animate-enter screen">
+        <div class="rectangle-1-LYL3xM"></div>
+        <img class="image-2-LYL3xM" src="img/image-2@2x.png" />
+        <div class="frame-8-LYL3xM smart-layers-pointers">
+          <button onclick="door(4);" class="hoodtext-Y5K63U roboto-bold-white-14px" style="white-space:nowrap;position:absolute; text-align: center;top:10%;">Ön Kaput</button>
+          <!-- <div class="hoodtext-Y5K63U valign-text-middle roboto-bold-white-14px">Front Hood</div> -->
+        </div>
+        <div class="rectangle-3-LYL3xM"></div>
+        <div class="hoodtext-LYL3xM valign-text-middle roboto-bold-white-13px">Plaka :</div>
+        <div class="hoodtext-drpGW6 valign-text-middle roboto-bold-white-14px">KINGYCUNT10</div>
+        <div class="rectangle-4-LYL3xM"></div>
+        <div class="hoodtext-zhQq5o valign-text-middle roboto-bold-white-13px">Vücut:</div>
+        <div class="hoodtext-XCFKT2 valign-text-middle roboto-bold-white-14px">ÇOK HASARLI</div>
+        <div class="rectangle-5-LYL3xM"></div>
+        <div class="hoodtext-lZWMSK valign-text-middle roboto-bold-white-13px">Motor:</div>
+        <div class="hoodtext-OH830Y valign-text-middle roboto-bold-white-14px">ÇOK HASARLI</div>
+        <div class="frame-6-LYL3xM smart-layers-pointers">
+          <button onclick="door(0);" class="ldoortext-N7lxJ3 roboto-bold-white-14px" style="position:absolute;text-align: center;top:10%; left:10%">Sol Sürücü</button>
+
+          <!-- <div class="ldoortext-N7lxJ3 valign-text-middle roboto-bold-white-14px">L Driver Door</div> -->
+        </div>
+        <div class="frame-7-LYL3xM smart-layers-pointers">
+          <button onclick="door(2);" class="ldoortext-dLyFX1 roboto-bold-white-14px" style="white-space:nowrap;position:absolute; text-align: center;top:10%;">Sol Yolcu Kapısı</button>
+
+          <!-- <div class="ldoortext-dLyFX1 valign-text-middle roboto-bold-white-14px">L Passenger Door</div> -->
+        </div>
+        <div class="frame-2-LYL3xM smart-layers-pointers">
+          <button onclick="toggleengine();" class="ldoortext-JhWZDq roboto-bold-white-18px" style="position:absolute;text-align: center;">Motor Aç/Kapat</button>
+          <!-- <div class="ldoortext-JhWZDq valign-text-middle roboto-bold-white-18px">Toggle Engine</div> -->
+        </div>
+        <div class="frame-3-LYL3xM smart-layers-pointers">
+          <button onclick="togglelights();" class="ldoortext-9HxUFI roboto-bold-white-18px" style="position:absolute;text-align: center;">Neon Aç/Kapat</button>
+
+          <!-- <div class="ldoortext-9HxUFI valign-text-middle roboto-bold-white-18px">Toggle Lights</div> -->
+        </div>
+        <div class="frame-5-LYL3xM smart-layers-pointers">
+          <button onclick="door(1);" class="ldoortext-LkF3VN roboto-bold-white-14px" style="white-space:nowrap;position:absolute; text-align: center;top:10%;">Sağ Yolcu Kapısı</button>
+          <!-- <div class="ldoortext-LkF3VN valign-text-middle roboto-bold-white-14px">F Passenger Door</div> -->
+        </div>
+        <div class="frame-4-LYL3xM smart-layers-pointers">
+          <button onclick="door(3);" class="ldoortext-HBQIbo roboto-bold-white-14px" style="white-space:nowrap;position:absolute; text-align: center;top:10%;">Sağ Yolcu Kapısı</button>
+
+          <!-- <div class="ldoortext-HBQIbo valign-text-middle roboto-bold-white-14px">R Passenger Door</div> -->
+        </div>
+        <div class="frame-1-LYL3xM smart-layers-pointers">
+          <button onclick="door(5);" class="trunktext-5ODJnF roboto-bold-white-14px" style="white-space:nowrap;position:absolute; text-align: center;top:10%;">Arka Bagaj</button>
+
+          <!-- <div class="trunktext-5ODJnF valign-text-middle roboto-bold-white-14px">Rear Trunk</div> -->
+        </div>
+        <div class="component-2-LYL3xM smart-layers-pointers">
+          <div class="ellipse-1-9rVVRG">
+            <button onclick="windowtoggle(0);" class="w-9rVVRG roboto-bold-white-14px" style="white-space:nowrap;position:absolute; text-align: center;top:0%;">C</button>
+          </div>
+          <!-- <div class="w-9rVVRG valign-text-middle roboto-bold-white-14px">W</div> -->
+        </div>
+        <div class="component-4-LYL3xM smart-layers-pointers">
+          <div class="ellipse-3-CEbImU">
+            <button onclick="windowtoggle(1);" class="w-CEbImU roboto-bold-white-14px" style="white-space:nowrap;position:absolute; text-align: center;top:0%;">C</button>
+          </div>
+          <!-- <div class="w-CEbImU valign-text-middle roboto-bold-white-14px">W</div> -->
+        </div>
+        <div class="component-5-LYL3xM smart-layers-pointers">
+          <div class="ellipse-4-x1iZXG">
+            <button onclick="windowtoggle(3);" class="w-x1iZXG roboto-bold-white-14px" style="white-space:nowrap;position:absolute; text-align: center;top:0%;">C</button>
+
+          </div>
+          <!-- <div class="w-x1iZXG valign-text-middle roboto-bold-white-14px">W</div> -->
+        </div>
+        <div class="component-3-LYL3xM smart-layers-pointers">
+          <div class="ellipse-2-16ElI4">
+            <button onclick="windowtoggle(2);" class="w-16ElI4 roboto-bold-white-14px" style="white-space:nowrap;position:absolute; text-align: center;top:0%;">C</button>
+          </div>
+          <!-- <div class="w-16ElI4 valign-text-middle roboto-bold-white-14px">W</div> -->
+        </div>
+        <div class="component-1-LYL3xM smart-layers-pointers"> 
+          <button onclick="$('.test').fadeOut(200); $.post('http://raid_carmenu/close');" class="ellipse-5-xf242i smart-layers-pointers" style="white-space:nowrap;position:absolute; text-align: center; font-size: 25px; color: white; top:0%;">X</button>
+
+          <!-- <img class="image-3-xf242i" src="img/image-3@2x.png" /> -->
+        </div>
+        <div class="seatone-LYL3xM smart-layers-pointers">
+          <div class="ellipse-6-nwzKNV"></div>
+          <button onclick="seattoggle(-1);" class="s-nwzKNV roboto-bold-white-14px" style="white-space:nowrap;position:absolute; text-align: center;top:0%;">K1</button>
+          <!-- <div class="s-nwzKNV valign-text-middle roboto-bold-white-14px">S</div> -->
+        </div>
+        <div class="seatone-drpGW6 smart-layers-pointers">
+          <div class="ellipse-6-uAMWLq"></div>
+            <button onclick="seattoggle(1);" class="s-i1911196-uAMWLq roboto-bold-white-14px" style="white-space:nowrap;position:absolute; text-align: center;top:0%;">K3</button>
+
+          <!-- <div class="s-i1911196-uAMWLq valign-text-middle roboto-bold-white-14px">S</div> -->
+        </div>
+        <div class="seatone-zhQq5o smart-layers-pointers">
+          <div class="ellipse-6-X4I4aT"></div>
+          <button onclick="seattoggle(2);" class="s-i1914196-X4I4aT roboto-bold-white-14px" style="white-space:nowrap;position:absolute; text-align: center;top:0%;">K4</button>
+
+          <!-- <div class="s-i1914196-X4I4aT valign-text-middle roboto-bold-white-14px">S</div> -->
+        </div>
+        <div class="seatone-XCFKT2 smart-layers-pointers">
+          <div class="ellipse-6-BaFUAx"></div>
+          <button onclick="seattoggle(0);" class="s-i198196-BaFUAx roboto-bold-white-14px" style="white-space:nowrap;position:absolute; text-align: center;top:0%;">K2</button>
+
+          <!-- <div class="s-i198196-BaFUAx valign-text-middle roboto-bold-white-14px">S</div> -->
+        </div>
+      </div>
+    </div>
+    <script>
+            window.addEventListener('message', function(event) {
+                if (event.data.type == "open") {
+                  $(".test").fadeIn(200)
+                } else if (event.data.type == "close") {
+                  $(".test").fadeOut(200)
+
+                } else if (event.data.type == "update") {
+                  $(".hoodtext-drpGW6").html(event.data.plate);
+                  $(".hoodtext-OH830Y").html(event.data.engine);
+                  $(".hoodtext-XCFKT2").html(event.data.body);
+                }
+          });
+          document.onkeydown = function(evt) {
+                evt = evt || window.event;
+                var isEscape = false;
+                if ("key" in evt) {
+                    isEscape = (evt.key === "Escape" || evt.key === "Esc");
+                } else {
+                    isEscape = (evt.keyCode === 27);
+                }
+                if (isEscape) {
+                  $('.test').fadeOut(200);
+                  $.post('http://raid_carmenu/close');
+                }
+            };
+          function close() {
+            $('.test').fadeOut(200);
+                  $.post('http://raid_carmenu/close');
+          }
+          function windowtoggle(cunt) {
+            $.post('http://raid_carmenu/togglewindow', JSON.stringify({id: cunt}));
+
+          }
+          function togglelights() {
+            $.post('http://raid_carmenu/togglelight');
+
+          }
+          function toggleengine() {
+            $.post('http://raid_carmenu/toggleengine');
+          }
+          function door(cunt) {
+            // $('.test').hide('slow');
+            $.post('http://raid_carmenu/openDoor', JSON.stringify({id: cunt}));
+          }
+
+          function seattoggle(cunt) {
+            $.post('http://raid_carmenu/switchSeat', JSON.stringify({id: cunt}));
+
+          }
+      function ShowOnScroll() {
+        this.toShow = [];
+        this.nextEventY = undefined;
+      }
+
+      $(".image-3-xf242i").on( "click", function(e) {
+        $('.test').fadeOut(200);
+         $.post('http://raid_carmenu/close');
+      });
+
+      ShowOnScroll.prototype.show = function (e) {
+        e.style.display = "";
+      };
+
+      ShowOnScroll.prototype.hide = function (e) {
+        e.style.display = "none";
+      };
+
+      ShowOnScroll.prototype.getTop = function (e) {
+        if (e.Top != undefined && e.Top != 0) {
+          return e.Top;
+        }
+        var top = 0;
+        var iter = e;
+        do {
+          top += iter.offsetTop || 0;
+          iter = iter.offsetParent;
+        } while (iter);
+        e.Top = top;
+        return top;
+      };
+
+      ShowOnScroll.prototype.onScroll = function () {
+        var screenBottom = window.pageYOffset + window.innerHeight;
+        if (this.nextEventY == undefined || this.nextEventY > screenBottom) {
+          return;
+        }
+        this.nextEventY = undefined;
+        for (var i = 0; i < this.toShow.length; i++) {
+          var e = this.toShow[i];
+          var top = this.getTop(e);
+          if (top < screenBottom) {
+            this.show(e);
+            this.toShow.shift();
+            i--;
+          } else {
+            this.nextEventY = top;
+            break;
+          }
+        }
+      };
+
+      ShowOnScroll.prototype.resetScrolling = function () {
+        // Clear state
+        var screenBottom = window.pageYOffset + window.innerHeight;
+        for (var i = 0; i < this.toShow.length; i++) {
+          var e = this.toShow[i];
+          this.show(e);
+        }
+        this.toShow = [];
+        this.nextEventY == undefined;
+
+        // Collect items
+        var itemsToShowOnScroll = Array.prototype.slice.call(document.getElementsByTagName("*"));
+        itemsToShowOnScroll = itemsToShowOnScroll.filter(function (e) {
+          return e.getAttribute("show-on-scroll") != undefined;
+        });
+        var getTop = this.getTop;
+        itemsToShowOnScroll.sort(function (a, b) {
+          return getTop(a) - getTop(b);
+        });
+        for (var i = 0; i < itemsToShowOnScroll.length; i++) {
+          var e = itemsToShowOnScroll[i];
+          var top = this.getTop(e);
+          if (top < screenBottom) {
+            continue;
+          }
+          this.toShow.push(e);
+          this.hide(e);
+          this.nextEventY = this.nextEventY != undefined ? this.nextEventY : top;
+        }
+      };
+
+      ShowOnScroll.prototype.handleEvent = function (e) {
+        switch (e.type) {
+          case "scroll":
+            this.onScroll();
+            break;
+          case "resize":
+            this.resetScrolling();
+            break;
+        }
+      };
+
+      ShowOnScroll.prototype.init = function () {
+        this.resetScrolling();
+        window.addEventListener("scroll", this);
+        window.addEventListener("resize", this);
+      };
+
+      // After anima-src
+      setTimeout(function () {
+        var instShowOnScroll = new ShowOnScroll();
+        instShowOnScroll.init();
+      }, 250);
+    </script>
+  </body>
+</html>

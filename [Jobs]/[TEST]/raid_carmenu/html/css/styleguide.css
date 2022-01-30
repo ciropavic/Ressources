@@ -1,0 +1,35 @@
+:root { 
+  --fiord: #38526e;
+  --white: #ffffff;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 18px;
+  --font-size-s: 14px;
+  --font-size-xs: 13px;
+ 
+  --font-family-roboto: "Roboto", Helvetica;
+  --font-family-roboto-medium: "Roboto-Medium", Helvetica;
+}
+.roboto-bold-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-bold-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-bold-white-13px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}

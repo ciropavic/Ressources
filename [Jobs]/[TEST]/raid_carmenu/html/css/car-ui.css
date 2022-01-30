@@ -1,0 +1,793 @@
+/* screen - car-ui */
+
+.car-ui {
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  position:absolute;
+  background-color: transparent;
+  display: block;
+  height: 460px;
+  width: 803px;
+  bottom:2rem;
+  /* left:10rem; */
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  opacity: 0;
+transform: translate(0, 25px);
+}
+
+.car-ui.animate-enter {
+  animation: animate-enter-frames 0.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+transform: translate(0, 25px);
+}
+
+@keyframes animate-enter-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.car-ui .rectangle-1-LYL3xM {
+  background-color: #242c39;
+  border: 8px solid var(--fiord);
+  border-radius: 29px;
+  height: 460px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 803px;
+}
+
+.car-ui .image-2-LYL3xM {
+  background-color: transparent;
+  height: 353px;
+  left: 328px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 53px;
+  width: 148px;
+}
+
+.car-ui .frame-8-LYL3xM {
+  background-color: var(--fiord);
+  border-radius: 5px;
+  height: 26px;
+  left: 355px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 16px;
+  transition: all 0.2s ease;
+  width: 86px;
+}
+
+.car-ui .frame-8-LYL3xM:hover {
+  transform: scale(1.1);
+}
+
+.car-ui .hoodtext-Y5K63U {
+  border-color: transparent;
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: auto;
+}
+
+.car-ui .rectangle-3-LYL3xM {
+  background-color: var(--fiord);
+  border-radius: 5px;
+  height: 37px;
+  left: 616px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 107px;
+  width: 162px;
+}
+
+.car-ui .hoodtext-LYL3xM {
+  background-color: transparent;
+  height: 37px;
+  left: 620px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 107px;
+  width: 45px;
+}
+
+.car-ui .hoodtext-drpGW6 {
+  background-color: transparent;
+  height: 37px;
+  left: 668px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 107px;
+  width: 110px;
+}
+
+.car-ui .rectangle-4-LYL3xM {
+  background-color: var(--fiord);
+  border-radius: 5px;
+  height: 37px;
+  left: 616px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 66px;
+  width: 162px;
+}
+
+.car-ui .hoodtext-zhQq5o {
+  background-color: transparent;
+  height: 37px;
+  left: 620px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  width: 52px;
+}
+
+.car-ui .hoodtext-XCFKT2 {
+  background-color: transparent;
+  height: 37px;
+  left: 668px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  width: 110px;
+}
+
+.car-ui .rectangle-5-LYL3xM {
+  background-color: var(--fiord);
+  border-radius: 5px;
+  height: 37px;
+  left: 616px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 25px;
+  width: 162px;
+}
+
+.car-ui .hoodtext-lZWMSK {
+  background-color: transparent;
+  height: 37px;
+  left: 620px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: 52px;
+}
+
+.car-ui .hoodtext-OH830Y {
+  background-color: transparent;
+  height: 37px;
+  left: 668px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: 110px;
+}
+
+.car-ui .frame-6-LYL3xM {
+  background-color: var(--fiord);
+  border-radius: 5px;
+  height: 28px;
+  left: 199px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 200px;
+  transition: all 0.2s ease;
+  width: 122px;
+}
+
+.car-ui .frame-6-LYL3xM:hover {
+  transform: scale(1.1);
+}
+
+.car-ui .ldoortext-N7lxJ3 {
+  border-color: transparent;
+  background-color: transparent;
+  height: 16px;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: auto;
+}
+
+.car-ui .frame-7-LYL3xM {
+  background-color: var(--fiord);
+  border-radius: 5px;
+  height: 28px;
+  left: 199px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 269px;
+  transition: all 0.2s ease;
+  width: 122px;
+}
+
+.car-ui .frame-7-LYL3xM:hover {
+  transform: scale(1.1);
+}
+
+.car-ui .ldoortext-dLyFX1 {
+  border-color: transparent;
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: auto;
+}
+
+.car-ui .frame-2-LYL3xM {
+  background-color: var(--fiord);
+  border-radius: 5px;
+  height: 50px;
+  left: 543px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 369px;
+  transition: all 0.2s ease;
+  width: 99px;
+}
+
+.car-ui .frame-2-LYL3xM:hover {
+  transform: scale(1.1);
+}
+
+.car-ui .ldoortext-JhWZDq {
+  border-color: transparent;
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 101px;
+}
+
+.car-ui .frame-3-LYL3xM {
+  background-color: var(--fiord);
+  border-radius: 5px;
+  height: 50px;
+  left: 657px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 369px;
+  transition: all 0.2s ease;
+  width: 99px;
+}
+
+.car-ui .frame-3-LYL3xM:hover {
+  transform: scale(1.1);
+}
+
+.car-ui .ldoortext-9HxUFI {
+  border-color: transparent;
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 101px;
+}
+
+.car-ui .frame-5-LYL3xM {
+  background-color: var(--fiord);
+  border-radius: 5px;
+  height: 28px;
+  left: 481px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 200px;
+  transition: all 0.2s ease;
+  width: 122px;
+}
+
+.car-ui .frame-5-LYL3xM:hover {
+  transform: scale(1.1);
+}
+
+.car-ui .ldoortext-LkF3VN {
+  border-color: transparent;
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: auto;
+}
+
+.car-ui .frame-4-LYL3xM {
+  background-color: var(--fiord);
+  border-radius: 5px;
+  height: 28px;
+  left: 481px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 269px;
+  transition: all 0.2s ease;
+  width: 122px;
+}
+
+.car-ui .frame-4-LYL3xM:hover {
+  transform: scale(1.1);
+}
+
+.car-ui .ldoortext-HBQIbo {
+  border-color: transparent;
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: auto;
+}
+
+.car-ui .frame-1-LYL3xM {
+  background-color: var(--fiord);
+  border-radius: 5px;
+  height: 28px;
+  left: 358px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 414px;
+  transition: all 0.2s ease;
+  width: 87px;
+}
+
+.car-ui .frame-1-LYL3xM:hover {
+  transform: scale(1.1);
+}
+
+.car-ui .trunktext-5ODJnF {
+  border-color: transparent;
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: auto;
+}
+
+.car-ui .component-2-LYL3xM {
+  background-color: transparent;
+  height: 29px;
+  left: 158px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 199px;
+  transition: all 0.2s ease;
+  width: 29px;
+}
+
+.car-ui .component-2-LYL3xM:hover {
+  transform: scale(1.1);
+}
+
+.car-ui .ellipse-1-9rVVRG {
+  background-color: var(--fiord);
+  border-radius: 14.5px;
+  height: 29px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.car-ui .w-9rVVRG {
+  border-color: transparent;
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 31px;
+}
+
+.car-ui .component-4-LYL3xM {
+  background-color: transparent;
+  height: 29px;
+  left: 616px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 199px;
+  transition: all 0.2s ease;
+  width: 29px;
+}
+
+.car-ui .component-4-LYL3xM:hover {
+  transform: scale(1.1);
+}
+
+.car-ui .ellipse-3-CEbImU {
+  background-color: var(--fiord);
+  border-radius: 14.5px;
+  height: 29px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.car-ui .w-CEbImU {
+  border-color: transparent;
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 31px;
+}
+
+.car-ui .component-5-LYL3xM {
+  background-color: transparent;
+  height: 29px;
+  left: 616px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 269px;
+  transition: all 0.2s ease;
+  width: 29px;
+}
+
+.car-ui .component-5-LYL3xM:hover {
+  transform: scale(1.1);
+}
+
+.car-ui .ellipse-4-x1iZXG {
+  background-color: var(--fiord);
+  border-radius: 14.5px;
+  height: 29px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.car-ui .w-x1iZXG {
+  border-color: transparent;
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 31px;
+}
+
+.car-ui .component-3-LYL3xM {
+  background-color: transparent;
+  height: 29px;
+  left: 158px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 269px;
+  transition: all 0.2s ease;
+  width: 29px;
+}
+
+.car-ui .component-3-LYL3xM:hover {
+  transform: scale(1.1);
+}
+
+.car-ui .ellipse-2-16ElI4 {
+  background-color: var(--fiord);
+  border-radius: 14.5px;
+  height: 29px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.car-ui .w-16ElI4 {
+  border-color: transparent;
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 31px;
+}
+
+.car-ui .component-1-LYL3xM {
+  background-color: transparent;
+  height: 51px;
+  left: 19px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 18px;
+  transition: all 0.2s ease;
+  width: 51px;
+}
+
+.car-ui .component-1-LYL3xM:hover {
+  transform: scale(1.1);
+}
+
+.car-ui .ellipse-5-xf242i {
+  border-color: transparent;
+  background-color: var(--fiord);
+  border-radius: 25.5px;
+  height: 51px;
+  left: 0px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 51px;
+}
+
+.car-ui .ellipse-5-xf242i:hover {
+  transform: scale(1.1);
+}
+
+.car-ui .image-3-xf242i {
+  background-color: transparent;
+  height: 20px;
+  left: 15px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 20px;
+}
+
+/* shit */
+
+.car-ui .seatone-LYL3xM {
+  background-color: transparent;
+  height: 29px;
+  left: 363px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 214px;
+  transition: all 0.2s ease;
+  width: 29px;
+}
+
+.car-ui .seatone-LYL3xM:hover {
+  transform: scale(1.1);
+}
+
+.car-ui .ellipse-6-nwzKNV {
+  background-color: var(--fiord);
+  border-radius: 14.5px;
+  height: 29px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.car-ui .s-nwzKNV {
+  border-color: transparent;
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 30px;
+}
+
+.car-ui .seatone-drpGW6 {
+  background-color: transparent;
+  height: 29px;
+  left: 362px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 285px;
+  transition: all 0.2s ease;
+  width: 29px;
+}
+
+.car-ui .seatone-drpGW6:hover {
+  transform: scale(1.1);
+}
+
+.car-ui .ellipse-6-uAMWLq {
+  background-color: var(--fiord);
+  border-radius: 14.5px;
+  height: 29px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.car-ui .s-i1911196-uAMWLq {
+  border-color: transparent;
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 30px;
+}
+
+.car-ui .seatone-zhQq5o {
+  background-color: transparent;
+  height: 29px;
+  left: 415px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 285px;
+  transition: all 0.2s ease;
+  width: 29px;
+}
+
+.car-ui .seatone-zhQq5o:hover {
+  transform: scale(1.1);
+}
+
+.car-ui .ellipse-6-X4I4aT {
+  background-color: var(--fiord);
+  border-radius: 14.5px;
+  height: 29px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.car-ui .s-i1914196-X4I4aT {
+  border-color: transparent;
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 30px;
+}
+
+.car-ui .seatone-XCFKT2 {
+  background-color: transparent;
+  height: 29px;
+  left: 416px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 214px;
+  transition: all 0.2s ease;
+  width: 29px;
+}
+
+.car-ui .seatone-XCFKT2:hover {
+  transform: scale(1.1);
+}
+
+.car-ui .ellipse-6-BaFUAx {
+  background-color: var(--fiord);
+  border-radius: 14.5px;
+  height: 29px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 29px;
+}
+
+.car-ui .s-i198196-BaFUAx {
+  border-color: transparent;
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 30px;
+}
